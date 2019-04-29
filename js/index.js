@@ -4,7 +4,7 @@
 
 // The API feed
 
-const getStuff = "https://api-beta.open5e.com/spells/?format=json";
+const getStuff = "https://gist.githubusercontent.com/OrbitGirl21/17c9b8be12964bc418e7065a6cdd1422/raw/0aba498934a81d9e971f2b5dd23fe5af60cc8b0a/data.json";
 
 let doStuff = function (data) {
   // How big is array?
